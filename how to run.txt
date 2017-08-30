@@ -1,0 +1,4 @@
+how to run
+
+1) extract the file
+2) double click on run.jar
